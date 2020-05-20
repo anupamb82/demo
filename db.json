@@ -1,14 +1,69 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "items": [{
+        "contentfragment": {
+          "description": "",
+          "title": "Wine",
+          "model": "wknd/models/offers",
+          ":type": "wknd/components/content/contentfragment",
+          ":items": {},
+          ":itemsOrder": [],
+          "elements": {
+            "offerdescription": {
+              "value": "<p>Dear {XYZ},&nbsp;</p>\n<p>Hey This might interest you!&nbsp;</p>\n<p>AIA is offering a package much smaller than XYZ&nbsp;</p>\n<p>Click to see details - http://www.aia.com/{OfferType}?aid={AgentId}&nbsp;</p>\n<p>Regards,&nbsp;</p>\n<p>{AgentName}</p>\n",
+              "title": "Offer Text",
+              "dataType": "string",
+              ":type": "text/html",
+              "multiValue": false
+            }
+          },
+          "elementsOrder": [
+            "offerdescription"
+          ]
+        }
+      },
+{
+        "contentfragment": {
+          "description": "",
+          "title": "Wine",
+          "model": "wknd/models/offers",
+          ":type": "wknd/components/content/contentfragment",
+          ":items": {},
+          ":itemsOrder": [],
+          "elements": {
+            "offerdescription": {
+              "value": "<p>Dear {XYZ},&nbsp;</p>\n<p>Hey This might interest you!&nbsp;</p>\n<p>AIA is offering a package much smaller than XYZ&nbsp;</p>\n<p>Click to see details - http://www.aia.com/{OfferType}?aid={AgentId}&nbsp;</p>\n<p>Regards,&nbsp;</p>\n<p>{AgentName}</p>\n",
+              "title": "Offer Text",
+              "dataType": "string",
+              ":type": "text/html",
+              "multiValue": false
+            }
+          },
+          "elementsOrder": [
+            "offerdescription"
+          ]
+        }
+      },
+{
+        "contentfragment": {
+          "description": "",
+          "title": "Wine",
+          "model": "wknd/models/offers",
+          ":type": "wknd/components/content/contentfragment",
+          ":items": {},
+          ":itemsOrder": [],
+          "elements": {
+            "offerdescription": {
+              "value": "<p>Dear {XYZ},&nbsp;</p>\n<p>Hey This might interest you!&nbsp;</p>\n<p>AIA is offering a package much smaller than XYZ&nbsp;</p>\n<p>Click to see details - http://www.aia.com/{OfferType}?aid={AgentId}&nbsp;</p>\n<p>Regards,&nbsp;</p>\n<p>{AgentName}</p>\n",
+              "title": "Offer Text",
+              "dataType": "string",
+              ":type": "text/html",
+              "multiValue": false
+            }
+          },
+          "elementsOrder": [
+            "offerdescription"
+          ]
+        }
+      }
+]
 }
