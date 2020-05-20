@@ -1,1 +1,43 @@
 
+[
+  {
+    "name": "Harris Frye",
+    "gender": "male",
+    "company": "AVENETRO",
+    "email": "harrisfrye@avenetro.com",
+    "phone": "+1 (940) 405-2888",
+    "address": "843 Irving Avenue, Sena, Massachusetts, 3865"
+  },
+  {
+    "name": "Aisha Chase",
+    "gender": "female",
+    "company": "OVERPLEX",
+    "email": "aishachase@overplex.com",
+    "phone": "+1 (860) 420-3140",
+    "address": "737 Lamont Court, Fairlee, Mississippi, 1033"
+  },
+  {
+    "name": "Marquita Alvarado",
+    "gender": "female",
+    "company": "MANGELICA",
+    "email": "marquitaalvarado@mangelica.com",
+    "phone": "+1 (946) 592-2227",
+    "address": "741 Folsom Place, Dixie, Oregon, 1124"
+  },
+  {
+    "name": "Wilkerson Holt",
+    "gender": "male",
+    "company": "TELEPARK",
+    "email": "wilkersonholt@telepark.com",
+    "phone": "+1 (930) 593-2568",
+    "address": "677 Calder Place, Townsend, Kansas, 4169"
+  },
+  {
+    "name": "Paulette Sparks",
+    "gender": "female",
+    "company": "AVIT",
+    "email": "paulettesparks@avit.com",
+    "phone": "+1 (899) 434-2883",
+    "address": "942 Jerome Street, Driftwood, Indiana, 5935"
+  }
+]
