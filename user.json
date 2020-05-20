@@ -1,1 +1,58 @@
-
+[
+  {
+    "name": "Hurst Padilla",
+    "gender": "male",
+    "company": "GEEKOL",
+    "email": "hurstpadilla@geekol.com",
+    "phone": "+1 (937) 568-3241",
+    "address": "552 Ocean Parkway, Tilden, Indiana, 2713"
+  },
+  {
+    "name": "Carissa Campbell",
+    "gender": "female",
+    "company": "INSOURCE",
+    "email": "carissacampbell@insource.com",
+    "phone": "+1 (968) 503-3053",
+    "address": "250 Sands Street, Malo, Louisiana, 5263"
+  },
+  {
+    "name": "Butler Ball",
+    "gender": "male",
+    "company": "DUFLEX",
+    "email": "butlerball@duflex.com",
+    "phone": "+1 (808) 511-2651",
+    "address": "789 Stillwell Avenue, Cherokee, Federated States Of Micronesia, 6617"
+  },
+  {
+    "name": "Effie Poole",
+    "gender": "female",
+    "company": "ZENSURE",
+    "email": "effiepoole@zensure.com",
+    "phone": "+1 (912) 451-3086",
+    "address": "631 Brooklyn Avenue, Grill, District Of Columbia, 6120"
+  },
+  {
+    "name": "Cross Norton",
+    "gender": "male",
+    "company": "QUONATA",
+    "email": "crossnorton@quonata.com",
+    "phone": "+1 (891) 425-3006",
+    "address": "498 Amersfort Place, Wiscon, Michigan, 2382"
+  },
+  {
+    "name": "Gardner Boyle",
+    "gender": "male",
+    "company": "EBIDCO",
+    "email": "gardnerboyle@ebidco.com",
+    "phone": "+1 (977) 416-3730",
+    "address": "918 Wilson Avenue, Geyserville, Maine, 617"
+  },
+  {
+    "name": "Jolene Mcgowan",
+    "gender": "female",
+    "company": "KINDALOO",
+    "email": "jolenemcgowan@kindaloo.com",
+    "phone": "+1 (936) 424-3100",
+    "address": "795 Underhill Avenue, Sugartown, American Samoa, 4851"
+  }
+]
