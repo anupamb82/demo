@@ -46,7 +46,7 @@
 {
         "contentfragment": {
           "description": "",
-          "title": "Wine",
+          "title": "Corona",
           "model": "wknd/models/offers",
           ":type": "wknd/components/content/contentfragment",
           ":items": {},
